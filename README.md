@@ -2,7 +2,7 @@
 
 ### Abstract :
 
-The Credit Defaulters Analysis is performed on customers of LendingClub to understand the driver variables behind loan default.
+The Credit Default Analysis is performed on customer data of LendingClub to understand the driver features behind loan default or bad loans.
 
 ### Business Objective :
 
