@@ -32,8 +32,8 @@ When a person applies for a loan, there are two types of decisions that could be
 #### Loan rejected: ####
     The company rejects the loan application.
 
-**Thus the company wants to understand the driving factors behind loan default.**
 
 ### Conclusion :
 
+**Thus the company wants to understand the driving factors behind loan default.** 
 Click [here](https://github.com/AbhishekKumar-0311/EDA-LendingClub-Credit-Default-Analysis/blob/main/Presentation/Lending_Club_Case_Study.pdf) to find the analysis results and the best driver variables to minimize the risk from loan defaulters.
