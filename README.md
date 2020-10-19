@@ -1,6 +1,6 @@
 # EDA-LendingClub-Credit-Default-Analysis
 
-### Abstract:
+### Abstract :
 
 The Credit Defaulters Analysis is performed on customers of LendingClub to understand the driver variables behind loan default.
 
@@ -10,7 +10,7 @@ For lending companies, lending loans to risky applicants is the largest source o
 
 If one is able to identify such risky applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the primary objective of this case study.
 
-# Understanding
+### Understanding :
 When the company receives a loan application, the company decides for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
 
 	If the applicant is likely to repay the loan, then not approving the loan results in a 
@@ -24,7 +24,7 @@ The data set contains the information about past loan applicants and whether the
 
 When a person applies for a loan, there are two types of decisions that could be taken by the company:
 
-### Loan accepted: ### 
+#### Loan accepted: ####
 	If the company approves the loan, there are 3 possible scenarios:
 
 	Fully paid: Applicant has fully paid the loan (principal amount + interest rate).
@@ -33,11 +33,11 @@ When a person applies for a loan, there are two types of decisions that could be
 	
 	Charged-off: Applicant has not paid the instalments in due time and has defaulted on the loan.
 
-### Loan rejected: ### 
+#### Loan rejected: ####
 	The company rejects the loan application.
 
 **Thus the company wants to understand the driving factors behind loan default.**
 
 ### Conclusion :
 
-Click [here] to find the analysis results and the best driver variables to minimize the risk from loan defaulters.
+Click [here] (https://github.com/AbhishekKumar-0311/EDA-LendingClub-Credit-Default-Analysis/blob/main/Presentation/Lending_Club_Case_Study.pdf) to find the analysis results and the best driver variables to minimize the risk from loan defaulters.
