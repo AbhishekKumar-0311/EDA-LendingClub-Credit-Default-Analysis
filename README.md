@@ -26,8 +26,8 @@ When a person applies for a loan, there are two types of decisions that could be
 #### Loan accepted: ####
     If the company approves the loan, there are 3 possible scenarios:
     Fully paid: Applicant has fully paid the loan (principal amount + interest rate).
-    Current: Applicant is in the process of paying the instalments.
-    Charged-off: Applicant has not paid the instalments in due time and has defaulted on the loan.
+    Current: Applicant is in the process of paying the installments.
+    Charged-off: Applicant has not paid the installments in due time and has defaulted on the loan.
 
 #### Loan rejected: ####
     The company rejects the loan application.
